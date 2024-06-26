@@ -14,7 +14,7 @@
 <h3>• Instalação Automática</h3> <br>
 
 ````
-apt update -y; apt install wget -y; wget https://raw.githubusercontent.com/PhoenixxZ2023/paineldtunnel/main/install.sh; chmod 777 install.sh; ./install.sh
+apt update -y; apt install wget -y; wget https://raw.githubusercontent.com/junior448/paineldtunnel/main/install.sh; chmod 777 install.sh; ./install.sh
 ````
 
 
